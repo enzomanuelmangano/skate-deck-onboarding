@@ -8,6 +8,11 @@
 
 [Check out the video tutorial!](https://youtu.be/OT-73hpwxXQ)
 
+## Inspirations
+
+- [Dribbble](https://dribbble.com/shots/5350361-SkateBoard-Decks)
+- [Flutter Onboarding SpeedCode](https://youtu.be/CA-BzlKOt_Q)
+
 ## Does this sound interesting?
 
 Then I suggest you check out my [YouTube](https://www.youtube.com/c/Reactiive) channel. I create React Native contents and continually update a series on Reanimated called ["Animate with Reanimated"](https://github.com/enzomanuelmangano/animate-with-reanimated).
